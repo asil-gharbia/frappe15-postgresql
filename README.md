@@ -1,4 +1,4 @@
-# Install Frappe 15 with PostgreSQL  <img src="https://archive.org/download/postgresql_32/postgresql.png" alt="PostgreSQL Logo" width="50" height="50"> 
+# <img src="https://archive.org/download/postgresql_32/postgresql.png" alt="PostgreSQL Logo" width="50" height="50">  Install Frappe 15 with PostgreSQL
 
 This guide provides step-by-step instructions to install Frappe1️⃣5️⃣ with PostgreSQL on a Linux system🐧.
 
